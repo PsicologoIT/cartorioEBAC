@@ -133,9 +133,9 @@ int main()
                 break;
 
             case 4:
-                ("Obrigado por utilizar o sistema!");
-                Return 0;
-                Break;
+                printf("Obrigado por utilizar o sistema!");
+                return 0;
+                break;
                 
             default:
                 printf("Esta opção não está disponível!\n");
